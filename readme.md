@@ -20,7 +20,6 @@ Link to privacy policy of third party service providers used by the app
 
 <li><a href="https://airtable.com/privacy" rel="nofollow" target="_blank">Airtable</a></li>
 
-<br>
             
 **Log Data**
 
